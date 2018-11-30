@@ -4,9 +4,10 @@ https://aananth-linux-notes.blogspot.com/2018/11/parental-controls-in-ubuntu-18.
 
 
 ## Pre-requisite
-sudo permission  
+sudo permission
+iptables
 sudo apt install acct  
-sudo apt install python3  
+sudo apt install python3
 
 
 ## Installation

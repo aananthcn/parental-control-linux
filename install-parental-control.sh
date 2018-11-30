@@ -9,3 +9,4 @@ sudo install -o root ./parental-control.sh /etc/profile.d/
 # Install core and logout scripts
 sudo mkdir -p ${PLC_DIR}
 sudo install -o root ./parental-control* ${PLC_DIR}/
+sudo install -o root ./parental-control.service /etc/systemd/system/
